@@ -14,6 +14,9 @@
 
 ## 🎯 Current Focus
 
+-🔁 Building Loop — an AI that handles your entire WhatsApp
+→ Automates conversations, workflows, and actions on top of messaging
+→ https://loop2.ai/
 - Building backend systems with real-world constraints  
 - Making AI agents practical (not just demos)  
 - Improving observability + analytics for AI workflows  
