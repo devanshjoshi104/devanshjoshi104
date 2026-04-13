@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hola amigo 👋, I'm Dev
 
-<!--
-**devanshjoshi104/devanshjoshi104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I am a serial debugger — debugging life and mind.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 What I’m working on
+
+- 🧠 Designing agent-based systems  
+- ⚙️ Integrating LLM workflows into production APIs  
+- 🧩 Refactoring complex systems into maintainable architectures  
+
+---
+
+## 🎯 Current Focus
+
+- Building backend systems with real-world constraints  
+- Making AI agents practical (not just demos)  
+- Improving observability + analytics for AI workflows  
+
+---
+
+
+## 🛠️ What you’ll find here
+
+- 🧪 Experiments
+
+---
+
+## 🌐 Connect
+
+- 🚀 Website: https://devansh.runable.site/  
+- 🐦 X (Twitter): https://x.com/debuggerdev  
+- 💼 LinkedIn: https://www.linkedin.com/in/jdevansh  
+
+---
+
+## 📈 Activity
+
+I work consistently — most of it goes into building and refining systems over time rather than one-off projects.
+
+--
